@@ -1,5 +1,4 @@
-﻿using System;
-using Refactoring.Models;
+﻿using Refactoring.Models;
 
 namespace Refactoring.UnitTest.Models;
 

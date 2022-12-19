@@ -1,9 +1,9 @@
-﻿using System.Collections.Generic;
-using Refactoring.Commands;
+﻿using Refactoring.Commands;
 using Refactoring.Models;
 using Refactoring.Models.Interfaces;
 using Refactoring.Repositories.Interfaces;
 using Refactoring.Services.Interfaces;
+using System.Collections.Generic;
 
 namespace Refactoring.UnitTest.Commands;
 

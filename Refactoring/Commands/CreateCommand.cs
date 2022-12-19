@@ -1,11 +1,11 @@
-﻿using System;
-using System.Linq;
-using Refactoring.Commands.Interfaces;
+﻿using Refactoring.Commands.Interfaces;
 using Refactoring.Factories.Interfaces;
 using Refactoring.Models.Interfaces;
 using Refactoring.Repositories.Interfaces;
 using Refactoring.Services.Interfaces;
 using Refactoring.Tools;
+using System;
+using System.Linq;
 
 namespace Refactoring.Commands;
 

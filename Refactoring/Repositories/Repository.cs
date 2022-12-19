@@ -1,5 +1,5 @@
-﻿using System.Collections.Generic;
-using Refactoring.Repositories.Interfaces;
+﻿using Refactoring.Repositories.Interfaces;
+using System.Collections.Generic;
 
 namespace Refactoring.Repositories;
 

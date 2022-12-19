@@ -1,5 +1,5 @@
-﻿using System;
-using Refactoring.Models.Interfaces;
+﻿using Refactoring.Models.Interfaces;
+using System;
 
 namespace Refactoring.Models;
 

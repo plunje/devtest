@@ -1,10 +1,10 @@
-﻿using System;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Refactoring.Commands;
 using Refactoring.Commands.Interfaces;
 using Refactoring.Constants;
 using Refactoring.Factories.Interfaces;
 using Refactoring.Tools;
+using System;
 
 namespace Refactoring.Factories;
 

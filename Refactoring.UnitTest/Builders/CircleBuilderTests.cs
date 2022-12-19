@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq;
-using Refactoring.Builders;
+﻿using Refactoring.Builders;
 using Refactoring.Models;
 
 namespace Refactoring.UnitTest.Builders;

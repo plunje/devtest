@@ -1,8 +1,8 @@
-﻿using System;
-using Refactoring.Builders.Interfaces;
+﻿using Refactoring.Builders.Interfaces;
 using Refactoring.Models;
 using Refactoring.Models.Interfaces;
 using Refactoring.Tools;
+using System;
 
 namespace Refactoring.Builders;
 

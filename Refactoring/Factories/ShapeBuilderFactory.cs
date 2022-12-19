@@ -1,9 +1,9 @@
-﻿using System;
-using Refactoring.Builders;
+﻿using Refactoring.Builders;
 using Refactoring.Builders.Interfaces;
 using Refactoring.Constants;
 using Refactoring.Factories.Interfaces;
 using Refactoring.Tools;
+using System;
 
 namespace Refactoring.Factories;
 

@@ -1,5 +1,5 @@
-﻿using System;
-using Refactoring.Services.Interfaces;
+﻿using Refactoring.Services.Interfaces;
+using System;
 
 namespace Refactoring.Services
 {

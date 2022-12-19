@@ -1,13 +1,13 @@
-﻿using System;
-using System.Linq;
-using Refactoring.Commands;
+﻿using Refactoring.Commands;
 using Refactoring.Constants;
 using Refactoring.Factories.Interfaces;
 using Refactoring.Services.Interfaces;
+using System;
+using System.Linq;
 
 namespace Refactoring.Services;
 
-internal class StateMachineService : IStateMachineService
+public class StateMachineService : IStateMachineService
 {
     private readonly ICommandFactory _commandFactory;
     private readonly IDisplayService _displayService;
