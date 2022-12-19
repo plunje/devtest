@@ -1,0 +1,9 @@
+﻿global using System;
+global using System.Linq;
+global using AutoFixture;
+global using AutoFixture.AutoMoq;
+global using AutoFixture.Xunit2;
+global using FluentAssertions;
+global using Moq;
+global using Refactoring.UnitTest.Helpers;
+global using Xunit;
